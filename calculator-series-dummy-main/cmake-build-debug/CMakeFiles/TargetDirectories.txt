@@ -1,0 +1,7 @@
+/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/cmake-build-debug/CMakeFiles/test.dir
+/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/cmake-build-debug/1_SimpleCalc/CMakeFiles/simplecalc.dir
+/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/cmake-build-debug/1_SimpleCalc/CMakeFiles/test.dir
+/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/cmake-build-debug/1_SimpleCalc/CMakeFiles/edit_cache.dir
+/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/cmake-build-debug/1_SimpleCalc/CMakeFiles/rebuild_cache.dir

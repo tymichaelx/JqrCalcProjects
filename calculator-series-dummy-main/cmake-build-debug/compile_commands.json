@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/cmake-build-debug",
+  "command": "/usr/bin/cc -DNDEBUG -I/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/1_SimpleCalc/include -I/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/1_SimpleCalc/../0_Common/include -g -fdiagnostics-color=always -std=c17 -Wall -Wextra -pedantic -g -Werror -Ofast -o 1_SimpleCalc/CMakeFiles/simplecalc.dir/src/hello_world.c.o -c /home/xed/calculator-series-dummy-main/calculator-series-dummy-main/1_SimpleCalc/src/hello_world.c",
+  "file": "/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/1_SimpleCalc/src/hello_world.c",
+  "output": "1_SimpleCalc/CMakeFiles/simplecalc.dir/src/hello_world.c.o"
+}
+]

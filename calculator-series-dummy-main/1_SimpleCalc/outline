@@ -1,0 +1,9 @@
+Simple Calc Outline
+
+- switch case for each operator
+- check operands
+	- while loop through the arg string to make sure each value is between 0 and 9
+- check operators
+- check if negative for bitwize operations
+
+

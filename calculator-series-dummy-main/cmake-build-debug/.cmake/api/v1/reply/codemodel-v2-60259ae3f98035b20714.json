@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "1_SimpleCalc",
+					"jsonFile" : "directory-1_SimpleCalc-Debug-437e44d6e65228222197.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "1_SimpleCalc",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "JQRCalcProjects"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "JQR_Trainee",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "simplecalc::@d24d1a4077c638ed0b73",
+					"jsonFile" : "target-simplecalc-Debug-c0d99d41c7105f971d58.json",
+					"name" : "simplecalc",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/xed/calculator-series-dummy-main/calculator-series-dummy-main/cmake-build-debug",
+		"source" : "/home/xed/calculator-series-dummy-main/calculator-series-dummy-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
